@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Task (Seerat Abbas - Android Developer)</string>
+    <string name="welcome">Welcome</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="alert">Alert</string>
+    <string name="language_change">Language Changed</string>
+</resources>

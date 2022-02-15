@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>show_alert</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>alert_message_en</key>
+        <value>The app is currently under maintenance; you might face difficulty in using some features.</value>
+    </entry>
+    <entry>
+        <key>alert_message_ar</key>
+        <value>التطبيق قيد الصيانة حاليًا ؛ قد تواجه صعوبة في استخدام بعض الميزات.</value>
+    </entry>
+</defaultsMap>

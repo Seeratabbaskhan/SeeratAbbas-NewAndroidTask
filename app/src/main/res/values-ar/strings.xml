@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Task (Seerat Abbas - Android Developer)</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="home_activity">الشاشة الرئيسية</string>
+    <string name="alert">إنذار</string>
+    <string name="language_change">تغيرت اللغة</string>
+
+</resources>
